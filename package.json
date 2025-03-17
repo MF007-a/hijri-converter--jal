@@ -23,5 +23,8 @@
   "homepage": "https://github.com/MF007-a/hijri-converter--jal#readme",
   "devDependencies": {
     "ava": "1.0.0-beta.6"
+  },
+  "dependencies": {
+    "hijri-converter--jal": "^1.1.0"
   }
 }
