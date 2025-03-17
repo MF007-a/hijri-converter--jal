@@ -25,6 +25,6 @@
     "ava": "1.0.0-beta.6"
   },
   "dependencies": {
-    "hijri-converter--jal": "^1.1.0"
+    "hijri-converter--jal": "^1.1.1"
   }
 }
