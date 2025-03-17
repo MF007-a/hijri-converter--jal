@@ -1,6 +1,6 @@
 {
   "name": "hijri-converter--jal",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Convert between Hijri (Iranian) and Gregorian",
   "main": "index.js",
   "scripts": {
